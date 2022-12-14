@@ -1,7 +1,7 @@
 package com.driver;
 
 public class Main {
-    class Product{
+    public class Product{
         public void product(int x,int y){
             System.out.println(x*y);
         }
